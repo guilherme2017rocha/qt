@@ -1,1 +1,7 @@
-Este é um arquivo de texto de teste para o github!!
+git pull para atualizar o repostório local
+
+git add "arquivo" para atualizar o que vou adicionar
+
+git commit -m "Mensagem aqui" para fazer o commit com uma mensagem
+
+git push para enviar para o repositório na nuvem
