@@ -10,7 +10,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->setupUi(this);
 
     //QVBoxLayout *vlayout = new QVBoxLayout(ui->centralWidget);
-    QPushButton *btn = new QPushButton("Fechar!", ui->centralWidget);
+    QPushButton *btn = new QPushButton("Fechar agora!", ui->centralWidget);
 
     //vlayout->insertWidget(0, btn);
 
